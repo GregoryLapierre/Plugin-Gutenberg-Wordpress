@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;IACI,kBAAkB;AACtB,C","sources":["webpack://mon-bloc/./src/block.css"],"sourcesContent":[".test{\n    background: yellow;\n}"],"names":[],"sourceRoot":""}

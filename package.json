@@ -1,0 +1,16 @@
+{
+  "name": "mon-bloc",
+  "version": "1.0.0",
+  "description": "Mon Plugin Gutenberg",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Greg",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.0.0"
+  }
+}
